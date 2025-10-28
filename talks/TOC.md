@@ -2,6 +2,7 @@
 
 | Thumbnail | Title |
 | ---------- | ----- |
+| ![Agenting Systems beyond localhost](./media/10.jpg) | [Agenting Systems beyond localhost](<./media/10 - Agenting Systems beyond localhost_compressed.pdf>) |
 | ![Build your own NES Emulator with Kotlin](./media/9.jpg) | [Build your own NES Emulator with Kotlin](<./media/9 - Build your own NES Emulator with Kotlin_compressed.pdf>) |
 | ![JVM Iceberg - Modern Performance Edition](./media/8.jpg) | [JVM Iceberg - Modern Performance Edition](<./media/8 - JVM Iceberg - Modern Performance Edition_compressed.pdf>) |
 | ![Running Java on Arm](./media/7.jpg) | [Running Java on Arm](<./media/7 - Running Java on Arm_compressed.pdf>) |
