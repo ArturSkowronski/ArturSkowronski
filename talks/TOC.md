@@ -2,6 +2,7 @@
 
 | Thumbnail | Title |
 | ---------- | ----- |
+| ![JVM in the Age of AI -2026 edition](./media/11.jpg) | [JVM in the Age of AI -2026 edition](<./media/11 - JVM in the Age of AI -2026 edition_compressed.pdf>) |
 | ![Agenting Systems beyond localhost](./media/10.jpg) | [Agenting Systems beyond localhost](<./media/10 - Agenting Systems beyond localhost_compressed.pdf>) |
 | ![Build your own NES Emulator with Kotlin](./media/9.jpg) | [Build your own NES Emulator with Kotlin](<./media/9 - Build your own NES Emulator with Kotlin_compressed.pdf>) |
 | ![JVM Iceberg - Modern Performance Edition](./media/8.jpg) | [JVM Iceberg - Modern Performance Edition](<./media/8 - JVM Iceberg - Modern Performance Edition_compressed.pdf>) |
@@ -12,3 +13,4 @@
 | ![GraalVM, CRaC, Leyden and friends](./media/3.jpg) | [GraalVM, CRaC, Leyden and friends](<./media/3 - GraalVM, CRaC, Leyden and friends_compressed.pdf>) |
 | ![JVM Iceberg](./media/2.jpg) | [JVM Iceberg](<./media/2 - JVM Iceberg_compressed.pdf>) |
 | ![I'm Not Cleaning Up Their Mess!](./media/1.jpg) | [I'm Not Cleaning Up Their Mess!](<./media/1 - I'm Not Cleaning Up Their Mess!_compressed.pdf>) |
+| ![Antykruchość PL](./media/0.jpg) | [Antykruchość PL](<./media/0 - Antykruchość PL_compressed.pdf>) |
