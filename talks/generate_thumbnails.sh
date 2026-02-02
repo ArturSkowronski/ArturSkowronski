@@ -2,9 +2,16 @@
 
 # Generate thumbnail images from the first slide of PDF files in media directory
 # Thumbnails are named based on the number prefix of the PDF (e.g., "11 - Talk Name.pdf" -> "11.jpg")
+# Usage: ./generate_thumbnails.sh [--force]
 
 MEDIA_DIR="$(dirname "$0")/media"
-THUMBNAIL_WIDTH=800
+THUMBNAIL_WIDTH=300
+FORCE=false
+
+if [ "$1" = "--force" ]; then
+    FORCE=true
+    echo "Force mode: regenerating all thumbnails"
+fi
 
 echo "Generating thumbnails for PDFs in $MEDIA_DIR"
 
@@ -17,7 +24,7 @@ for pdf in "$MEDIA_DIR"/*_compressed.pdf; do
 
     thumbnail="$MEDIA_DIR/${number}.jpg"
 
-    if [ -f "$thumbnail" ]; then
+    if [ -f "$thumbnail" ] && [ "$FORCE" = false ]; then
         echo "Skipping $filename (thumbnail exists)"
         continue
     fi
