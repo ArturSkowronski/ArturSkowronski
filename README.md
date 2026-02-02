@@ -32,8 +32,6 @@ Each talk includes slides and many include demo repositories you can explore.
 
 ## JVM Weekly Newsletter
 
-Every week, I curate the latest news, articles, projects, and developments happening in the JVM world. JVM Weekly has thousands of subscribers—from seasoned Java developers to those just getting started with JVM-based programming.
-
-The newsletter covers everything from language updates and framework releases to performance optimization tips and interesting community projects. If you want to stay up to date with what's happening in the Java ecosystem without the noise, JVM Weekly is for you.
+Every week, I curate the latest news, articles, projects, and developments happening in the JVM world. JVM Weekly has 8k+ of subscribers - from seasoned Java developers to those just getting started with JVM-based programming.
 
 📬 **[Subscribe to JVM Weekly](https://www.jvm-weekly.com/)**
