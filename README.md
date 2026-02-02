@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Artur Skowroński
 
-Welcome! I'm the Application Develpment at VirtusLab and the curator of JVM Weekly newsletter. 
+I'm the Application Develpment at VirtusLab and the curator of JVM Weekly newsletter. 
 
 Over the years, I've had the opportunity to speak at various conferences about topics I'm passionate about:
 
