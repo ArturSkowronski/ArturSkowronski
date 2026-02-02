@@ -2,8 +2,6 @@
 
 Welcome! I'm the Application Develpment at VirtusLab and the curator of JVM Weekly newsletter. 
 
-## Conference Talks & Presentations
-
 Over the years, I've had the opportunity to speak at various conferences about topics I'm passionate about:
 
 * **JVM in the Age of AI** - Exploring how the JVM ecosystem is adapting to the AI revolution
