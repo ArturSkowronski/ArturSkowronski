@@ -22,14 +22,6 @@ Over the years, I've had the opportunity to speak at various conferences about t
 
 Each talk includes slides and many include demo repositories you can explore.
 
-## Let's Connect
-
-🔗 **LinkedIn:** [linkedin.com/in/arturskowronski](https://www.linkedin.com/in/arturskowronski/)
-
-🐦 **Twitter/X:** [@ArturSkowronski](https://x.com/arturskowronski)
-
-📝 **Substack:** [@arturskowronski](https://substack.com/@arturskowronski)
-
 ## JVM Weekly Newsletter
 
 Every week, I curate the latest news, articles, projects, and developments happening in the JVM world. JVM Weekly has 8k+ of subscribers - from seasoned Java developers to those just getting started with JVM-based programming.
