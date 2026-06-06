@@ -2,6 +2,7 @@
 
 | Thumbnail | Title |
 | ---------- | ----- |
+| ![Gemini Plays Final Fantasy](./media/12.jpg) | [Gemini Plays Final Fantasy](<./media/12 - Gemini Plays Final Fantasy_compressed.pdf>) |
 | ![JVM in the Age of AI -2026 edition](./media/11.jpg) | [JVM in the Age of AI -2026 edition](<./media/11 - JVM in the Age of AI -2026 edition_compressed.pdf>) <br/> [Demos](https://github.com/ArturSkowronski/conference-jvm-in-age-ai-2026): TornadoVM, Cyfra (Scala→Vulkan LLM), JCuda, TensorFlow FFM, GraalPy |
 | ![Agenting Systems beyond localhost](./media/10.jpg) | [Agenting Systems beyond localhost](<./media/10 - Agenting Systems beyond localhost_compressed.pdf>) |
 | ![Build your own NES Emulator with Kotlin](./media/9.jpg) | [Build your own NES Emulator with Kotlin](<./media/9 - Build your own NES Emulator with Kotlin_compressed.pdf>) |
